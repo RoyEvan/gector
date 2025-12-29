@@ -133,3 +133,9 @@ dmypy.json
 .idea
 
 *.sh
+
+# Backup directory for vocab files
+vocab_backup/*
+
+# Models
+models/*
